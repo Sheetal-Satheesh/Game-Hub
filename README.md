@@ -9,9 +9,9 @@ Welcome to the Game Hub App repository! This application allows users to discove
 
 ## Features
 
-- **Video Browsing**: Discover videos by categories, genres, and popularity.
-- **Search Functionality**: Find specific videos using the search bar.
-- **Filter by Genre and Platform**: Narrow down videos based on genre and platform filters.
+- **Game Browsing**: Discover Games by categories, genres, and popularity.
+- **Search Functionality**: Find specific Games using the search bar.
+- **Filter by Genre and Platform**: Narrow down Games based on genre and platform filters.
 - **Dark Mode and Light Mode**: Switch between dark and light themes for a better viewing experience.
 - **Critic Scores**: View critic scores based on data from the RAWG
 - **Responsive Design**: Enjoy a seamless experience on both desktop and mobile devices.
