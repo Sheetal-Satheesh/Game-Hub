@@ -18,7 +18,6 @@ function App() {
           <GenreList></GenreList>
         </GridItem>
       </Show>
-
       <GridItem area="main">
         <GameGrid />
       </GridItem>

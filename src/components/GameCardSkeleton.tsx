@@ -4,7 +4,7 @@ const GameCardSkeleton = () => {
   return (
     <>
       <Card>
-        <Skeleton height={60}></Skeleton>
+        <Skeleton height={80}></Skeleton>
         <CardBody>
           <SkeletonText></SkeletonText>
         </CardBody>

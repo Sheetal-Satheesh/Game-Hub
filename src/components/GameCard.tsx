@@ -13,7 +13,7 @@ const GameCard = ({ game }: GameCardProps) => {
     <Card>
       <Image src={getCroppedImageUrl(game.background_image)} />
       <CardBody>
-        <Heading fontSize="x-large">{game.name}</Heading>
+        <Heading fontSize="large">{game.name}</Heading>
         <HStack justifyContent="space-between">
           <PlatformIconList
             platforms={game.parent_platforms.map(
