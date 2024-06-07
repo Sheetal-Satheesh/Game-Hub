@@ -1,4 +1,4 @@
-# Game Hub 
+# Game Hub
 
 Welcome to the Game Hub App repository! This application allows users to discover and explore a wide range of games across various categories and genres. The app offers a seamless browsing experience with features inspired by the popular RAWG website.
 
@@ -16,11 +16,17 @@ Welcome to the Game Hub App repository! This application allows users to discove
 - **Critic Scores**: View critic scores based on data from the RAWG
 - **Responsive Design**: Enjoy a seamless experience on both desktop and mobile devices.
 
+## Live Demo
+
+- **Deployed in Vercel** :
+
+You can view the live demo of the project here: [View Live Demo](https://game-qoyavlwa0-sheetals-projects-2fcfe17d.vercel.app/)
+
 ## Installation
 
 ### Steps
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/Sheetal-Satheesh/Game-Hub.git
-    ```
+   ```bash
+   git clone https://github.com/Sheetal-Satheesh/Game-Hub.git
+   ```
