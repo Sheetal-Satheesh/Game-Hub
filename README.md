@@ -20,7 +20,7 @@ Welcome to the Game Hub App repository! This application allows users to discove
 
 - **Deployed in Vercel** :
 
-You can view the live demo of the project here: [View Live Demo](https://game-qoyavlwa0-sheetals-projects-2fcfe17d.vercel.app/)
+You can view the live demo of the project here: [View Live Demo]([https://game-hub-chi-hazel.vercel.app/])
 
 ## Installation
 
